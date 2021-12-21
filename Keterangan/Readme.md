@@ -1,3 +1,6 @@
 ### Tipe Data
 1. int -> Bilangan bulat -> 1,2,3,4
 2. float -> Bilangan berkoma -> 3.4, 4.5
+
+Run : ctrl + shift + b
+g++
